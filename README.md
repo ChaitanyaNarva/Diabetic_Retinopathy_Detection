@@ -20,5 +20,6 @@ They want us to build a system where it takes the retinal image of a patient and
 * After applying couple of pretrained models, Ensembling those models has given a top score of 0.9314.
 * But here our goal is not only to give best score but to provide a system which makes prediction with explanation. Here I have chosen DenseNet which has given next best score of 0.923 val kappa score. 
 * Using Grad-Cam for model interpretability.
+<img src='https://cdn-images-1.medium.com/max/1800/1*Avr09iLbIG4XLYLTUBmsZA.png'/>
 
 
